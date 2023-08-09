@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newcomer03&label=Profile%20views&color=0e75b6&style=flat" alt="newcomer03" /> </p>
 
-- 🌱 I’m currently learning **MERN stack, Unity**
+- 🌱 I’m currently focused on **DSA**
 
 - 📫 How to reach me **soumyadeep.space@gmail.com**
 
