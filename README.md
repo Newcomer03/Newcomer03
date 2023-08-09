@@ -23,4 +23,4 @@
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=newcomer03&show_icons=true&locale=en" alt="newcomer03" height="180px"/></p>
 
 <h3 align="left">Leetcode Stats:</h3>
-<p align="Left"><img src="https://leetcode.card.workers.dev/newcomer03?theme=default&amp;font=baloo&amp;extension=null" alt="LeetCode Stats"></p>
+<p align="Left"><a href="https://leetcode.com/newcomer03/" target="_blank"><img src="https://leetcode.card.workers.dev/newcomer03?theme=default&amp;font=baloo&amp;extension=null" alt="LeetCode Stats"></a></p>
